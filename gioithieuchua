@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Giới thiệu</title>
+    <style>
+        img{
+            display: block; margin-left: auto; margin-right: auto;
+        }
+    
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #f4f4f4;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            color: #555;
+        }>Từ xa nhìn vào, bạn sẽ thấy những tòa nhà trong chùa với lối kiến trúc hình tháp vươn thẳng lên trời,<br> mang nét đẹp nguy nga, tráng lệ nhưng cũng không kém phần trang nghiêm.</p>
+                <img display: block; margin-left: auto; margin-right: auto;  width="500px" src="/images/p3.jpn "alt="Toan canh chua Ang">
+               <p>  Theo sử sách thì chùa Âng được xây dựng vào thế kỷ thứ 10 (năm 990) và được xây dựng qui mô như hiện nay vào năm Thiệu Trị thứ 3, tức năm 1842 theo dương lịch. Từ đó đến nay, ngôi chùa được trùng tu, sửa chữa nhiều lần, trong đó xây dựng mới các công trình phụ như nhà tăng xá, trai đường… nhưng ngôi chánh điện cơ bản vẫn giữ được nguyên trạng như buổi đầu mới hình thành.
+
+Như bao ngôi chùa Khmer khác trên địa bàn Trà Vinh, chùa Âng là một quần thể các công trình kiến trúc bao gồm tăng xá, giảng đường dạy chữ Paly và chữ Khmer… bao quanh ngôi chánh điện uy nghi. Ngôi chùa quay mặt về hướng đông, thể hiện tư tưởng Phật giáo là Phật Thích ca ở tây phương nhìn về hướng đông để độ trì chúng sinh.
+
+Cổng chùa Âng được trang trí bằng nghệ thuật điêu khắc rất kỳ công, tinh xảo với những tượng chằn, tiên nữ, chim thần theo mô típ truyền thống Khmer.
+                <b>2. Chua Kompong </b>
