@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ngôi chùa Khmer cổ ở Trà Vinh</title>
+    <style>
+        img{
+            display: block; margin-left: auto; margin-right: auto;
+        }
+    
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #f4f4f4;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            color: #555;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ngôi chùa Khmer cổ ở Trà Vinh</h1>
+    </header>
+    <nav>
+        <a href="chuacokhmer.html">Trang chủ </a>
+        <a href="gioithieu.html">Giới thiệu</a>
+        <a href="#">Danh sách</a>
+        <a href="#">Liên hệ</a>
+        <a href="#">Đăng kí </a>
+    </nav>
+    <main>
+
+        <section id="gioi-thieu">
+            <h2>Giới thiệu về các ngôi chùa Khmer cổ ở Trà Vinh</h2>
+            <p>Trà Vinh là một tỉnh miền Tây Nam Bộ , nổi tiếng với văn hóa và kiến trúc Khmer. Các ngôi chùa cổ ở Trà Vinh là điểm đến lý tưởng cho những người muốn tìm hiểu về lịch sử và văn hóa của dân tộc Khmer.</p>
+            
+            <img display: block; margin-left: auto; margin-right: auto;  width="500px" src="/images/p1.jpg"alt="Một góc chùa Âng ">
+        </section>
+        <p>Trang web này cung cấp thông tin chi tiết về các ngôi chùa Khmer cổ ở Trà Vinh, bao gồm lịch sử, kiến trúc, và các sự kiện quan trọng.</p>
+            <p>Hãy khám phá và tìm hiểu thêm về di sản văn hóa độc đáo của vùng đất Trà Vinh!</p>
+
+        
+        <section id="lien-he">
+            <h2>Liên hệ</h2>
+            <p>Địa chỉ: Số xx, đường xx, phường xx, TP. Trà Vinh</p>
+            <p>Email: contact@chuakhmercovn.com</p>
+            <p>Điện thoại: 0123 456 789</p>
+        </section>
+    </main>
+    <footer>
+        <p>Bản quyền © 2024 Ngôi chùa Khmer cổ ở Trà Vinh</p>
+    </footer>
+</body>
+</html>
