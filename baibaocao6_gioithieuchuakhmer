@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Giới thiệu</title>
+    <style>
+        img{
+            display: block; margin-left: auto; margin-right: auto;
+        }
+    
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #f4f4f4;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            color: #555;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ngôi chùa Khmer cổ ở Trà Vinh</h1>
+    </header>
+    <nav>
+        <a href="chuacokhmer.html">Trang chủ </a>
+        <a href="gioithieu.html">Giới thiệu</a>
+        <a href="#">Danh sách</a>
+        <a href="#">Liên hệ</a>
+        <a href="#">Đăng kí </a>
+    </nav>
+    <body> 
+        <section id="gioi-thieu">
+            <h2>Giới thiệu khái quát  </h2>  
+           <p> Các công trình kiến trúc chùa cổ Khmer ở Trà Vinh, một tỉnh nằm ở miền Nam Việt Nam, <br>thường mang trong mình vẻ đẹp và sự linh thiêng đặc trưng của nền văn hóa Khmer. <br>Dưới đây là một số điểm chính về chùa cổ Khmer ở Trà Vinh:<br>
+<b>1. Kiến trúc Phật giao  : </b>Các chùa cổ ở Trà Vinh thường có kiến trúc độc đáo, thể hiện nét<br> đẹp trang trọng và uy nghiêm của Phật giao Khmer. Các công trình này thường được <br>xây dựng từ gạch, đá và có nhiều hình khắc, hoa văn tinh xảo trên tường.<br>
+
+<b>2. Kiến trúc Angkor: </b>Nhiều chùa cổ ở Trà Vinh được xây dựng theo phong cách kiến trúc Angkor,<br>hợp tinh tế giữa nghệ thuật kiến trúc, tôn giáo và văn hóa của dân tộc Khmer.</p>
+<img display: block; margin-left: auto; margin-right: auto;  width="500px" src="/images/p2.jpg"Chanh điện Wat Sam Rong Ek ">
+        </section>
+    </body>
+    
+</html>
